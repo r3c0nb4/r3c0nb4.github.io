@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -79,43 +79,30 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: 
-        time: 
-        company: 
+      - role: Master student
+        time: 2022 - present
+        company: Vrije University Amsterdam
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          I am a student in VUsec computer security program.
+          I am doing research on microarchitecture security currently.
+          I'm interested in lots of topics about security such as fuzzing, system security etc.
+          VUsec courses are very hard, making people abnormal to some extends. I am lucky to pass the 
+          core courses: Binary Analysis and Malware, Software Security, Hardware Security.
+      - role: Bacholar
+        time: 2017 - 2021
+        company: Beijing Jiaotong University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          In 2018, I started to use Linux on my laptop, and got interested in computer security.
+          I was a member in IT center in 2019, worked as a operation and maintainance engineer.
+          My campus is in Weihai, the city in Shandong. At first, I was a student in Accounting and Finance
+          track, however, I changed my major to Computer Science in second year for some reasons.
+          If you are interested in more stories in that time, I am so sorry to say: I don't remember.
+      - role: Internship
+        time: 2020
+        company: Qianxin Shanghai
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          During internship, I mainly focused on web security. I tested some sites from clients, 
+          practiced the skills for web pentesting. More details? No, I should keep secret for clients.
 
 certifications:
       title: Certifications
@@ -207,46 +194,30 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      No publications, sorry. I will do my best, system security is hard.
     papers:
-      - title: The Art of Computer Programming
+      - title: How to play Genshin Impact (But I do not suggest anyone to play this game, seriously)
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Me
+        conference: MiHoYo
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Microarchitecture analysis(Processor engineering)
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Reverse engineering
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Linux
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Binay exploitation(pwn)
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
