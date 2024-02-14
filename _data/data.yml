@@ -83,27 +83,30 @@ experiences:
       - role: Master student
         time: 2022 - present
         company: Vrije University Amsterdam
-        details: |
-          I am a student in VUsec computer security program.
-          I am doing research on microarchitecture security currently.
-          I'm interested in lots of topics about security such as fuzzing, system security etc.
-          VUsec courses are very hard, making people abnormal to some extends. I am lucky to pass the 
-          core courses: Binary Analysis and Malware, Software Security, Hardware Security.
+        details: |   
+          I am a student enrolled in the VUsec computer security program, where I am currently 
+          engaged in research on microarchitecture security. My interests span a wide range of 
+          security topics, including fuzzing, system security, and more. The rigorous courses 
+          offered by VUsec are known for their difficulty, often pushing students to their 
+          limits (drive students to the brink of insanity). Fortunately, I have successfully completed 
+          core courses such as Binary Analysis and Malware, Software Security, and Hardware Security.
       - role: Bacholar
         time: 2017 - 2021
         company: Beijing Jiaotong University
         details: |
-          In 2018, I started to use Linux on my laptop, and got interested in computer security.
-          I was a member in IT center in 2019, worked as an operation and maintainance engineer.
-          My campus is in Weihai, the city in Shandong. At first, I was a student in Accounting and Finance
-          track, however, I changed my major to Computer Science in second year for some reasons.
-          If you are interested in more stories in that time, I am so sorry to say: I don't remember.
+          In 2018, I began using Linux on my laptop and developed an interest in computer security. 
+          The following year, I joined the IT center and worked as an operations and maintenance engineer. 
+          My campus was located in Weihai, a city in Shandong Province. Initially, I pursued studies in 
+          the Accounting and Finance track, but switched my major to Computer Science during my second 
+          year for various reasons. Unfortunately, if you're hoping for more stories from that time, I 
+          regret to say that I don't remember.
       - role: Internship
         time: 2020
         company: Qianxin Shanghai
         details: |
-          During internship, I mainly focused on web security. I tested some sites from clients, 
-          practiced the skills for web pentesting. More details? No, I should keep secret for clients.
+          During my internship, my primary focus was on web security. I conducted tests on various client 
+          websites and honed my skills in web penetration testing. As for further details, I must maintain 
+          confidentiality for the sake of our clients. :)
 
 certifications:
       title: Certifications
@@ -195,7 +198,7 @@ oss:
 publications:
     title: Publications
     intro: |
-      No publications, sorry. I will do my best, system security is hard. You may want to go to https://r3c0nb4.github.io/siteblog to read blogs.
+      No publications, sorry. I will do my best, system security is hard. If you want , you may to go to https://r3c0nb4.github.io/siteblog to read blogs.
     papers:
       - title: How to play Genshin Impact (But I do not suggest anyone to play this game, seriously)
         link: "#"
