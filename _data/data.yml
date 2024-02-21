@@ -210,7 +210,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Microarchitecture analysis(Processor engineering)
+      - name: Microarchitecture analysis(Processor reverse engineering)
         level: 70%
 
       - name: Reverse engineering
@@ -219,7 +219,7 @@ skills:
       - name: Linux
         level: 80%
 
-      - name: Binay exploitation(pwn)
+      - name: Binary exploitation(pwn)
         level: 70%
 
 
