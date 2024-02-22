@@ -210,8 +210,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Microarchitecture analysis(Processor reverse engineering)
-        level: 70%
+      - name: Microarchitecture analysis
+        level: 75%
 
       - name: Reverse engineering
         level: 70%
