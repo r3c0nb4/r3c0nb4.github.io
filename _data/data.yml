@@ -21,13 +21,13 @@ sidebar:
     xing: 
     github: r3c0nb4
     telegram: # add your nickname without '@' sign
-    gitlab: https://r3c0nb4.github.io/siteblog
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://github.com/r3c0nb4/r3c0nb4.github.io/blob/main/Resume.pdf
+    pdf: https://r3c0nb4.github.io/siteblog
 
     languages:
       title: Languages
