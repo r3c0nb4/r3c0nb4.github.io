@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: y30.chen@student.vu.nl
-    blog: https://r3c0nb4.github.io
+    blog: https://r3c0nb4.github.io/siteblog
     phone: 
     timezone: EU/Netherland Timezone
     citizenship: CN
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+    pdf: https://github.com/r3c0nb4/r3c0nb4.github.io/blob/main/Resume.pdf
 
     languages:
       title: Languages
