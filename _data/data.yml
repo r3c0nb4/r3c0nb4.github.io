@@ -46,7 +46,7 @@ sidebar:
         - item: Cooking
           link:
         
-        - item: System security
+        - item: System security(click this link for blogs)
           link: https://r3c0nb4.github.io/siteblog
 
 career-profile:
@@ -199,7 +199,7 @@ oss:
 publications:
     title: Publications
     intro: |
-      No publications, sorry. I will do my best, system security is hard. If you want , you may go to https://r3c0nb4.github.io/siteblog to read blogs.
+      No publications, sorry. I will do my best, system security is hard. 
     papers:
       - title: How to play Genshin Impact (But I do not suggest anyone to play this game, seriously)
         link: "#"
