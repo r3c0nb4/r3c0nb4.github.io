@@ -91,16 +91,12 @@ experiences:
           offered by VUsec are known for their difficulty, often pushing students to their 
           limits (drive students to the brink of insanity). Fortunately, I have successfully completed 
           core courses such as Binary Analysis and Malware, Software Security, and Hardware Security.
-      - role: Bacholar
-        time: 2017 - 2021
-        company: Beijing Jiaotong University
+      - role: Intern
+        time: 2024 - present
+        company: Riscure
         details: |
-          In 2018, I began using Linux on my laptop and developed an interest in computer security. 
-          The following year, I joined the IT center and worked as an operations and maintenance engineer. 
-          My campus was located in Weihai, a city in Shandong Province. Initially, I pursued studies in 
-          the Accounting and Finance track, but switched my major to Computer Science during my second 
-          year for various reasons. Unfortunately, if you're hoping for more stories from that time, I 
-          regret to say that I don't remember.
+          In Aug 2024, I joined Riscure as an intern, currently I am do research about BUSted attack. We want 
+          to replicate BUSted attack and explore more possibilities upon this new micro-architecture attack.
       - role: Internship
         time: 2020
         company: Qianxin Shanghai
