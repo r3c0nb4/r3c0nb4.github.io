@@ -195,12 +195,12 @@ oss:
 publications:
     title: Publications
     intro: |
-      No publications, sorry. I will do my best, system security is hard. 
+      
     papers:
-      - title: How to play Genshin Impact (But I do not suggest anyone to play this game, seriously)
-        link: "#"
-        authors: Me
-        conference: MiHoYo
+      - title: 
+        link: 
+        authors:
+        conference:
 
 
 skills:
