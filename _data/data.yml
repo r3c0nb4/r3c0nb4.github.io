@@ -207,16 +207,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Microarchitecture analysis
-        level: 75%
+      - name: Microarchitectural Security
+        level: 85%
 
-      - name: Reverse engineering
+      - name: Reverse Engineering
         level: 70%
 
       - name: Linux
         level: 80%
 
-      - name: Binary exploitation(pwn)
+      - name: Binary Exploitation(pwn)
         level: 70%
 
 
