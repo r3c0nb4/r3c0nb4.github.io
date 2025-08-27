@@ -191,7 +191,7 @@ publications:
     intro: |
       
     papers:
-      - title: 
+      - title: Evaluation of Runahead Execution on the NVIDIA Denver 2 CPU
         link: https://github.com/r3c0nb4/denver/blob/main/Master_Thesis_runahead.pdf
         authors: Yuxuan Chen, Daily Supervisor-Mathé Hertogh, Supervisor-Cristiano Giuffrida
         conference: Master Thesis
