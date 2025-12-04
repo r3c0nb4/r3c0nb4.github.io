@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Yuxuan Chen
-    tagline: Computer security master student in VU Amsterdam
+    tagline: PhD Student at IMDEA Software Institute
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -79,23 +79,24 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: PHD student
+        time: 2025.12 - Recent
+        company: IMDEA Software Institute
+        details: |   
+          I am a PhD student at the IMDEA Software Institute, with a research focus on 
+          microarchitectural security.
       - role: Master student
         time: 2022.9 - 2025.8
         company: Vrije University Amsterdam
         details: |   
-          I am a student enrolled in the VUsec computer security program, where I am currently 
+          I was a student enrolled in the VUsec computer security program, where I am currently 
           engaged in research on microarchitecture security. My interests span a wide range of 
-          security topics, including fuzzing, system security, and more. The rigorous courses 
-          offered by VUsec are known for their difficulty, often pushing students to their 
-          limits (drive students to the brink of insanity). Fortunately, I have successfully completed 
-          core courses such as Binary Analysis and Malware, Software Security, and Hardware Security.
+          security topics, including fuzzing, system security, and more.
       - role: Intern
         time: 2024.8 - 2025.1
         company: Riscure
         details: |
-          In Aug 2024, I joined Riscure as an intern, currently I am do research about BUSted attack. We want 
-          to replicate BUSted attack and explore more possibilities upon this new micro-architecture attack.
-
+          In Aug 2024, I joined Riscure as an intern, I did research about BUSted attack. 
 
 certifications:
       title: Certifications
